@@ -1,2 +1,2 @@
-# resturant
-python
+# shope menu 
+# Python tkinter
